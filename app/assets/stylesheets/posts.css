@@ -1,0 +1,33 @@
+.post{
+  border: 1px solid;
+  width: 40%;
+  margin-top: 30px;
+}
+
+.post-date{
+  color: gray;
+}
+
+\
+.top-contents {
+  display:flex;
+  height: 400;
+}
+ .left-content {
+  width: 30%;
+  height: 300px;
+  top:0;
+  background-color: blue;
+}
+ .right-content {
+  width: 70%;
+  height: 300px;
+  top:0;
+  background-color: red;
+}
+ .bottom-contents {
+  top: 400px;
+  height: 100px;
+  background-color: black;
+}
+ 
