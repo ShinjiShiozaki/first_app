@@ -21,15 +21,4 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...test2マージのリバートテストです。
-* デスクトップHubから、テスト用ブランチを新規作成
-* VSCodeで、ソースを修正A
-* デスクトップGitHubから、コミット→プッシュ
-* リモートGitHubから、Newプルリクエスト→マージ
-* デスクトップGitHubから、カレントブランチをメインに切り替え
-* VSCodeで、ソースを修正Aが反映されていないことを確認
-* デスクトップGitHubから、プル　※別のタイミングで自動的にプルされることもあり
-* VSCodeで、ソースを修正Aが反映されたことを確認
-
-* デスクトップGitHubのメインブランチのHistoryから、マージをrevert
-* VSCodeで、ソースを修正Aが反映されていないと思うが
+* ...test2
